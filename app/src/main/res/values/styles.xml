@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+
+</resources>

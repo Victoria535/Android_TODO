@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleList</string>
+
+    <string name="input">Введите задачу...</string>
+    <string name="Calendar">Нажми, чтобы добавить дату</string>
+    <string name="note">Нажми, чтобы добавить заметку</string>
+    <string name="note_text">Введите заметку...</string>
+</resources>
